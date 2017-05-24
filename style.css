@@ -1,22 +1,13 @@
 /*
-Theme Name:  DEJOIE COUVERTURE
-Theme URI:   http://dejoie-couverture.fr
+Theme Name:  test site
+Theme URI:   http://testsite.fr
 Version:     1.0
-Description: DivDejoieCouvertureChild
-Author:      wardm8
-Author URI:  http://dejoie-couverture.fr
-Template:    Divi
+Description: 
+Author:      admin
+Author URI:  http://testsite.fr
+Template:    donar
 */
 
-
-/***********************************************************************
-Caution: do not remove this to keep Divi Children Engine always updated 
-Divi Children Engine version: 1.0.4
-***********************************************************************/
-
-/*------------------------------[FONT ICONS]-----------------------------*/
-/*--[Created by Divi Children, http://divi4u.com/divi-children-plugin/]--*/
-/*-----------------------------------------------------------------------*/
 
 .icon_tags, .icon_profile, .icon_chat, .icon_clipboard, .icon_calendar {
 	font-family: 'ETmodules';
@@ -52,7 +43,7 @@ Divi Children Engine version: 1.0.4
 	padding: 0 5px 0 20px;
 }
 
-/*- YOU CAN INCLUDE THE CUSTOM CODE FOR YOUR CHILD THEME BELOW THIS LINE-*/
+
 
 /*------------------------------------------------*/
 /*-----------------[BASIC STYLES]-----------------*/
